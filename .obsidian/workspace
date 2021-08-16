@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 7.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 7.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "df7fc892980f0e92",
   "lastOpenFiles": [
+    "README.md",
     "Untitled 7.md",
     "Untitled 3.md",
     "Untitled 4.md",
-    "README.md",
     "Untitled 2.md",
     "Words Dictionary Template.md",
     "top 5000 words.md",
